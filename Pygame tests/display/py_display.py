@@ -12,4 +12,4 @@ while run:
         if event.type == pygame.QUIT:
             run = False
 
-quit()
+pygame.quit()
